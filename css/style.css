@@ -1,0 +1,275 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 1255px;
+    height: 1380px;
+
+    background: #F5F7FA;
+}
+
+h4{
+    margin-bottom: -5px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #000000;
+}
+
+h3{
+    margin-bottom: -5px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+h2{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: -15px;
+}
+h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 20px;
+}
+.mainContainer{
+    position: absolute;
+    width: 1200px;
+    height: 1319px;
+    margin: 30px;
+
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.myResume{
+    position: absolute;
+    width: 1200px;
+    height: 1319px;
+    
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+
+}
+
+.aboutMe{
+    position: absolute;
+    width: 410px;
+    height: 230px;
+    left: 500px;
+    top: 90px;
+  }
+
+.myProject{
+    position: absolute;
+    width: 490px;
+    height: 107px;
+    left: 500px;
+    top: 330px;
+}
+
+.myWork{
+    position: absolute;
+    width: 490px;
+    height: 213px;
+    left: 500px;
+    top: 480px;
+}
+
+.company2{
+    position: absolute;
+    width: 490px;
+    height: 150px;
+    left: 500px;
+    top: 735px;
+}
+
+.company3{
+    position: absolute;
+    width: 490px;
+    height: 126px;
+    left: 500px;
+    top: 900px;
+}
+
+.myEducation{
+    position: absolute;
+    width: 490px;
+    height: 130px;
+    left: 500px;
+    top: 1065px;
+}
+
+.margin{
+    margin-bottom: -13px;
+}
+
+.color_margin{
+    margin-bottom: -13px; 
+    color:#FB6D3A;
+}
+
+.indexText2{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: -25px;
+
+    color: #595959;
+}
+
+.indexTextArtem{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px; 
+        
+    color: #595959;
+}
+
+.indexText1{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px; 
+    margin-left: 10px;
+        
+    color: #595959;
+}
+
+.indexText{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: -24px;
+    
+    color: #000000;
+}
+
+.b_index_text{
+    color: #000000;
+}
+
+
+/* -------- SITEBAR -------- */
+
+.sitebar{
+    position: absolute;
+    width: 370px;
+    height: 1319px;
+    margin-left: 30px;
+    margin-top: 30px;
+
+    background: #1E2939;
+}
+
+.contacts{
+    position: absolute;
+    width: 104px;
+    height: 27px;
+    left: 40px;
+    top: 422px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+}
+
+.contactBox{
+    position: absolute;
+    width: 240px;
+    height: 83px;
+    left: 40px;
+    top: 480px;
+
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+.techSkills{
+    position: absolute;
+    width: 121px;
+    height: 203px;
+    left: 40px;
+    top: 570px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+}
+
+.softSkills{
+    position: absolute;
+    width: 113px;
+    height: 131px;
+    left: 40px;
+    top: 850px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+}
+
+.index{
+    font-size: 12px;
+    line-height: 15px;   
+    
+    color: #A8A8A8;
+}
+
+.ulColor{
+    color:#FB6D3A;
+    margin-left: -24px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 27px;
+}
+.spanColo{
+    color:#ffffff;
+}
+
+.colorContactBox{
+    color: #FFFFFF;
+    opacity: 0.5;
+    
+    }
+        a:hover {
+        color: #FB6D3A;; /* Цвет ссылки при наведении на нее курсора мыши */  
+        text-decoration: underline; /* Добавляем подчеркивание */
+        opacity: 1;
+        transition: 0.1s linear;
+    }
+
+.jpg{
+    position: absolute;
+    width: 370px;
+    height: 354px;
+    margin-top: 40px;
+}
+
+.colortext{
+    color:#FB6D3A;
+}
